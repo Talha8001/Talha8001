@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src=“[https://bensmarketus.com/chill-coding-programming-lo-fi-animation-[royalty-free-stock-bb-18061620](https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjug67qrpCGAxW0-AIHHUrUD94QM3oECBQQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjug67qrpCGAxW0-AIHHUrUD94QM3oECBQQAA)“>
+<img align="right" alt="Coding" width="400" src=“[https://bensmarketus.com/chill-coding-programming-lo-fi-animation-[royalty-free-stock-bb-18061620](https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjug67qrpCGAxW0-AIHHUrUD94QM3oECBQQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjug67qrpCGAxW0-AIHHUrUD94QM3oECBQQAA)“ />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha8001&label=Profile%20views&color=0e75b6&style=flat" alt="talha8001" /> </p>
 
