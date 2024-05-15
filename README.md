@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2dg2T2Lc4ofAOSbF-3FPr0&ust=1715886889231000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiLhqr1rpCGAxUT6AIHHbYWDoEQjRx6BAgAEBU“/>
-![image](https://github.com/Talha8001/Talha8001/assets/161211211/45efb1e9-770d-4959-a789-5437e6ae2e91)
+<img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2dg2T2Lc4ofAOSbF-3FPr0&ust=1715886889231000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiLhqr1rpCGAxUT6AIHHbYWDoEQjRx6BAgAEBU“>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha8001&label=Profile%20views&color=0e75b6&style=flat" alt="talha8001" /> </p>
 
